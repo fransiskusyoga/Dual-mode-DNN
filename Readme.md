@@ -10,4 +10,4 @@ This repo contains the implementation of of dual mode neural network processor. 
 - documentataion : detail documentataion of the architecture and control signal
 
 ## Documentataion
-further documentation can be accessed [here](http://google.com)
+further documentation can be accessed [here](https://github.com/fransiskusyoga/Dual-mode-DNN/blob/master/documentation/VLSI%20-%20Jepang%20v14.pdf)
